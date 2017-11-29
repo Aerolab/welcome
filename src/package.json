@@ -1,0 +1,13 @@
+{
+  "name": "Aerolab Welcome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp dev",
+    "dev": "gulp dev"
+  },
+  "author": "Aerolab <hey@aerolab.co> (https://aerolab.co)",
+  "license": "MIT"
+}

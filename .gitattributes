@@ -1,0 +1,3 @@
+syntax=javascript
+*.html linguist-language=JavaScript
+*.js linguist-language=JavaScript
